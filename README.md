@@ -1,7 +1,7 @@
 # SLSTR_package
-A python package to handle with SLSTR cloud flagging data validation is provide.
+A python package to handle with SLSTR cloud flagging data validation is provided.
 
-The SLSTR_package consists of 5 python files: gui.py; image_loading.py; patch_extraction.py; rad_to_reflectance.py; unpack_and_show.py. Before going to each python file, a description of SLTSTR validation use cases is given. It is also needed to say that some of the steps below are necessary to run algorithms for the validation of the SLSTR cloud masks. 
+The SLSTR_package consists of 5 python files: gui.py; image_loading.py; patch_extraction.py; rad_to_reflectance.py; unpack_and_show.py. Before going down into each python file, a description of SLTSTR validation use cases is given. It is also needed to say that some of the steps below are necessary to run algorithms for the validation of the SLSTR cloud masks. 
 
 1.	SLSTR Use Cases
 
